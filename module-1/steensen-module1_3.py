@@ -13,5 +13,7 @@ def countdown():
     print("1 bottle of beer on the wall, 1 bottle of beer.\nTake one down and pass it around, 0 bottles of beer on the wall.\n")
 
     print("Time to buy some more bottles of beer.")
+    
+    print("Time to buy some more bottles of beer.")
 
 countdown()
