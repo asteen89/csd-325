@@ -14,6 +14,5 @@ def countdown():
 
     print("Time to buy some more bottles of beer.")
     
-    print("Time to buy some more bottles of beer.")
 
 countdown()
